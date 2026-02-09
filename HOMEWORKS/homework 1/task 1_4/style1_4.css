@@ -1,0 +1,10 @@
+span,span2{
+    background-color: rgba(135, 206, 250, 0.69);
+}
+p,span,span2{
+    font-size: 25px;
+
+}
+span2{
+    color: red;
+}
