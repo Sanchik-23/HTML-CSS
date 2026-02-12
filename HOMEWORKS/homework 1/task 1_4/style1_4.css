@@ -1,10 +1,12 @@
-span,span2{
+span {
     background-color: rgba(135, 206, 250, 0.69);
-}
-p,span,span2{
     font-size: 25px;
-
 }
-span2{
+
+p {
+    font-size: 25px;
+}
+
+.red {
     color: red;
 }
